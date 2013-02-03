@@ -1,15 +1,13 @@
-package com.example.untitled1;
+package com.supersifymain;
 
 import android.app.Activity;
 import android.os.Bundle;
-import com.thegoan.supersify.Controller;
 import android.view.View;
-import android.widget.Button;
 import com.thegoan.supersify.SuperSify;
 import android.widget.TextView;
 import android.widget.EditText;
 
-public class MyActivity extends Activity
+public class supersifymain extends Activity
 {
 
     public void login(View view){

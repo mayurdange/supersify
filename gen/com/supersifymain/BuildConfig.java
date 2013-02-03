@@ -1,5 +1,5 @@
 /** Automatically generated file. DO NOT MODIFY */
-package com.example.untitled1;
+package com.supersifymain;
 
 public final class BuildConfig {
     public final static boolean DEBUG = true;
